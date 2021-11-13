@@ -9,7 +9,12 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@babel/generator": "^7.16.0",
+    "@babel/parser": "^7.16.3",
+    "@babel/traverse": "^7.16.3",
     "core-js": "^2.6.5",
+    "element": "^0.1.4",
+    "ui": "^0.2.4",
     "vue": "^2.6.10"
   },
   "devDependencies": {
